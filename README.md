@@ -11,16 +11,11 @@ Building machine learning systems that integrate vision, audio, and language, wi
 * College ERP System — backend with normalized schema and role-based workflows
 
 ## Tech
-
-<p>
-  ## Tech
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /><br/>
   <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
 </p>
 
 ## Focus
