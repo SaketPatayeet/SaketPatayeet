@@ -1,16 +1,29 @@
-## Hi there 👋
+# Saket Patayeet
 
-<!--
-**SaketPatayeet/SaketPatayeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building machine learning systems that integrate vision, audio, and language, with a focus on real-world deployment and performance.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Medical Imaging (Deeptek.ai) — multi-model chest X-ray classification + segmentation + explainability
+* Multimodal RAG Assistant — text, image, and audio grounded QA system
+* Digital Scarecrow (YOLO) — real-time animal detection system
+* Bird Classification — audio (spectrogram) + image-based pipeline
+* College ERP System — backend with normalized schema and role-based workflows
+
+## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,tensorflow,opencv,nodejs,express,fastapi,arduino" />
+</p>
+
+## Focus
+
+* Multimodal ML systems
+* Real-world robustness
+* Backend + ML integration
+* Low-latency systems
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/saket-patayeet/
+* Email: [saket.patayeet23@vit.edu](mailto:saket.patayeet23@vit.edu)
