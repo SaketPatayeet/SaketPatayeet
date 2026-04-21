@@ -13,7 +13,14 @@ Building machine learning systems that integrate vision, audio, and language, wi
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,pytorch,tensorflow,opencv,nodejs,express,fastapi,arduino" />
+  ## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /><br/>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 </p>
 
 ## Focus
