@@ -4,7 +4,7 @@ Building machine learning systems that integrate vision, audio, and language, wi
 
 ## Projects
 
-* Medical Imaging (Deeptek.ai) — multi-model chest X-ray classification + segmentation + explainability
+* Medical Imaging — multi-model chest X-ray classification + segmentation + explainability
 * Multimodal RAG Assistant — text, image, and audio grounded QA system
 * Digital Scarecrow (YOLO) — real-time animal detection system
 * Bird Classification — audio (spectrogram) + image-based pipeline
